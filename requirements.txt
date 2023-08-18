@@ -1,0 +1,16 @@
+sklearn
+fastapi
+pandas
+matplotlib
+numpy
+pickle
+pydantic
+datetime
+scipy
+seaborn
+skopt
+xgboost
+lightgbm
+catboost
+tensorflow
+uvicorn
